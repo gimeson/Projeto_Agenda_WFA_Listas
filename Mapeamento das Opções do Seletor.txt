@@ -1,0 +1,11 @@
+Mapeamento das Opções do Seletor na Interface WinForms
+======================================================
+
+Opção do Seletor      Mapeamento na Interface Windows Forms
+
+0. Sair               Botão 0. Sair (executa this.Close()).
+1. Adicionar contato  Preenche os campos, adiciona telefones na lista secundária e clica em 1. Adicionar.
+2. Pesquisar contato  Digita o e-mail no campo correspondente e clica em 2. Pesquisar para carregar os dados.
+3. Alterar contato    Pesquisa/seleciona o contato, altera os dados nos campos e clica em 3. Alterar.
+4. Remover contato    Seleciona o contato ou digita o e-mail e clica em 4. Remover.
+5. Listar contatos    O DataGridView é atualizado automaticamente a cada ação e pode ser recarregado clicando em 5. Listar.

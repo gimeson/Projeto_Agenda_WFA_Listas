@@ -1,0 +1,10 @@
+AgendaWinForms/
+├── Models/
+│   ├── Data.cs
+│   ├── Telefone.cs
+│   ├── Contato.cs
+│   └── Contatos.cs
+├── Forms/
+│   ├── FormAgenda.cs          (Formulário Principal - Interface Gráfica)
+│   └── FormAgenda.Designer.cs (Código gerado pelo designer)
+└── Program.cs
